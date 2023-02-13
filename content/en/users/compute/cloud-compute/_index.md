@@ -9,7 +9,7 @@ description: >
   Run virtual machines in the EGI Cloud
 ---
 
-The [EGI Federated Cloud Compute](https://www.egi.eu/services/cloud-compute/) (FedCloud)
+The [EGI Federated Cloud Compute](https://www.egi.eu/service/cloud-compute/) (FedCloud)
 service offers a multi-cloud IaaS federation that brings together
 research clouds as a scalable computing platform for data and/or compute driven
 applications and services for research and science.
